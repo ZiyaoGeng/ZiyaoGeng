@@ -1,5 +1,9 @@
 ## Hello World👋
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiyaoGeng&hide=prs&count_private=true&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/ZiyaoGeng)
+
+<!--
 <p>我是潜心，硕士在读，一位喜欢钻研推荐算法的初学者😄。</p>
 <div align="center">
   <p>
@@ -8,6 +12,8 @@
     </a>
   </p>
 </div>
+-->
+
 
 <!--
 <p style="float: left">
