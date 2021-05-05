@@ -1,6 +1,6 @@
 ## Hello World👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyaoGeng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-我是潜心，硕士在读，一位喜欢钻研推荐算法的初学者😄。欢迎关注GitHub以及个人公众号“推荐算法的小齿轮”。
+
+<p>我是潜心，硕士在读，一位喜欢钻研推荐算法的初学者😄。欢迎关注GitHub以及个人公众号“推荐算法的小齿轮”。</p>
 <div align="center">
   <p>
     <a href="https://github.com/ZiyaoGeng">
