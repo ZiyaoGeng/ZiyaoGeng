@@ -9,7 +9,7 @@
   </p>
   <p>
     <a href="#">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyaoGeng&layout=compact"/>
+      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyaoGeng&layout=compact"/>
     </a>
   </p>
 </div>
