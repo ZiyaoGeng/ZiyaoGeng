@@ -3,7 +3,7 @@
 
 [<img align="right" width="58%" src="https://github-readme-stats.vercel.app/api?username=ZiyaoGeng&hide=prs&count_private=true&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">](https://github.com/ZiyaoGeng)
 
-我是潜心，一位喜欢钻研推荐算法的初学者😄。
+我是潜心，一位喜欢钻研推荐算法的初学者。
 
 -   :hammer_and_pick: Python/Tensorflow
 -   :package:  [Recommender System with TF2.0](https://github.com/ZiyaoGeng/Recommender-System-with-TF2.0)
