@@ -1,7 +1,7 @@
 ## Hello World👋
 
 <p>我是潜心，硕士在读，一位喜欢钻研推荐算法的初学者😄。欢迎关注GitHub以及个人公众号“推荐算法的小齿轮”。</p>
-<div>
+<div style="overflow: hidden;">
   <p style="float: left">
     <a href="https://github.com/ZiyaoGeng">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZiyaoGeng&hide=prs&count_private=true&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
