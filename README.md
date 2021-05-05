@@ -1,4 +1,7 @@
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZiyaoGeng&hide=prs&count_private=true&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/ZiyaoGeng)
 
 <!--
