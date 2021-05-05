@@ -5,12 +5,10 @@
 
 我是潜心，硕士在读，一位喜欢钻研推荐算法的初学者😄。
 
--   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
--   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
--   :pencil2: Arch Linux / i3-wm / Oh My Zsh / NeoVim / Firefox
+-   :hammer_and_pick: Python/Tensorflow
+-   :package:  [Recommender System with TF2.0](https://github.com/ZiyaoGeng/Recommender-System-with-TF2.0)
+-   :pencil2: 公众号 推荐算法的小齿轮
 -   :seedling: Preparing for [Gaokao](https://en.wikipedia.org/wiki/National_College_Entrance_Examination)
--   :man: Pronouns: he/him
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
 
 ---
 
