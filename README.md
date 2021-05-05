@@ -8,7 +8,16 @@
     </a>
   </p>
 </div>
-
+#### :bar_chart: Weekly development breakdown
+<!--START_SECTION:waka-->
+```text
+VimL   12 hrs 42 mins  █████████████▒░░░░░░░░░░░   52.68 % 
+Text   2 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Bash   2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+C++    2 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Lua    1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+```
+<!--END_SECTION:waka-->
 <!--
 <p style="float: left">
     <a href="https://github.com/ZiyaoGeng">
@@ -19,6 +28,7 @@
     </a>
   </p>
 -->
+
 <!--
 **ZiyaoGeng/ZiyaoGeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
