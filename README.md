@@ -1,6 +1,6 @@
 ## Hello World👋
 
-我是潜心，硕士在读，一位喜欢钻研推荐算法的初学者。欢迎关注我的GitHub以及个人公众号“推荐算法的小齿轮”。
+我是潜心，硕士在读，一位喜欢钻研推荐算法的初学者😄。欢迎关注我的GitHub以及个人公众号“推荐算法的小齿轮”。
 <div align="center">
   <p>
     <a href="https://github.com/ZiyaoGeng">
