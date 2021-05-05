@@ -8,7 +8,8 @@
 -   :hammer_and_pick: Python/Tensorflow
 -   :package:  [Recommender System with TF2.0](https://github.com/ZiyaoGeng/Recommender-System-with-TF2.0)
 -   :pencil2: 公众号：推荐算法的小齿轮
--   :seedling: 硕士在读/美团推荐算法实习生
+-   :seedling: 硕士在读
+-   :seedling: 美团推荐算法实习生
 
 
 <!--
