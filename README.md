@@ -1,7 +1,7 @@
 ## Hello World👋
 
 
-[<img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=ZiyaoGeng&hide=prs&count_private=true&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">](https://github.com/ZiyaoGeng)
+[<img align="right" width="58%" src="https://github-readme-stats.vercel.app/api?username=ZiyaoGeng&hide=prs&count_private=true&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">](https://github.com/ZiyaoGeng)
 
 我是潜心，一位喜欢钻研推荐算法的初学者😄。
 
@@ -10,7 +10,6 @@
 -   :pencil2: 公众号：推荐算法的小齿轮
 -   :school: 硕士在读
 -   :office: 美团推荐算法实习生
--   asdas
 
 
 <!--
